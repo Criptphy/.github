@@ -1,7 +1,7 @@
 ## Olá 👋
 
 <h3 align="center">
-<!-- 	<img src="assets\readme.png" width="200" height="200" alt="Logo"/><br/> -->
+	<img src="assets\Logo.png" width="200" height="200" alt="Logo"/><br/>
 	<br/>
 	Criptphy
 </h3>
@@ -12,5 +12,5 @@
 </p>
 	
 <p align="center">
-<!--   <img src="assets\banner.png" alt="Banner"/> -->
+  <img src="assets\Cover.png" alt="Banner"/>
 </p>
