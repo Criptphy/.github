@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center" textaling="center">
-	Sua privacidade em primeiro luga. Deixamos sua vida online mais segura de forma simples e prática.
+	Sua privacidade em primeiro lugar. Deixamos sua vida online mais segura de forma simples e prática.
 	Sua proteção é um direito seu e um dever nosso.
 </p>
 	
